@@ -1,0 +1,21 @@
+git clone https://github.com/goodtft/LCD-show.git
+    3  chmod -R 755 LCD-show/
+    4  sudo ./LCD-show/
+    5  sudo ./LCD35-show/
+    6  cd LDC-show
+    7  cd LDC-show/
+    8  chmod -R 755 LCD-show/
+    9  cd LDC-show/
+   10  cd LCD-show/
+   11  sudo ./LCD35-show/
+   12  sudo ./LCD35-show
+   13  exit
+   14  exit
+   15  ls -al
+   16  clear
+   17  ls -al
+   18  cat LCD-show/
+   19  cd LCD-show/
+   20  ls -al
+   21  cat xserver-xorg-input-evdev_
+   22  get app
